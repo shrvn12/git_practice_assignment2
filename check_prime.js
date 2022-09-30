@@ -6,8 +6,8 @@ for (let x = 1; x < num**0.5; x++) {
     }
 }
 if (factor == 1) {
-   console.log("yes");
+   console.log("Number is Prime");
    }
 else {
-     console.log("no")
+     console.log("Number is not prime")
      }
